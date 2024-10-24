@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-color: #dd1264;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.set-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button {
+  height: 35px;
+  width: 200px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #dd1264;
+  margin: 20px;
+  font-weight:bold;
+  font-size:25px;
+}
+
+.paragraph {
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+}
+
+.small-box {
+  height: 100px;
+  width: 150pxpx;
+  background-color: #fddddb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  border-radius: 8px;
+}
